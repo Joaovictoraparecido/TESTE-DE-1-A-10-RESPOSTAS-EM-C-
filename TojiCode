@@ -1,0 +1,94 @@
+#include	<stdio.h>
+#include	<stdlib.h>
+#include	<locale.h>
+
+	
+	int main(void)
+	{
+	setlocale(LC_ALL,"portuguese");
+	int joao;
+	
+	printf("\n DIGITE DE 0 A 10 A LINDEZA DO TOJI \n");
+		scanf("%d",&joao);
+		
+		if(joao<=0)
+		{
+			printf("\n SEI QUE VOCE TA MENTINDO SUA RAPARIGA VEIA \n");
+		}
+		else
+		if(joao<=1)
+		{
+			printf("\n SÓ 1? QUENGA VEIA \n");
+		}
+	else
+	
+	if(joao<=2)
+	{
+		printf("\n 2 é uma poha menor tu que é feio que só uma poha\n");
+	}
+	else
+	if(joao<=3)
+	{
+		printf("\n 3 NADA FII TUA SORTE É QUE EU SOU SOMENTE UM PROGRAMA SE NAO IA TE DEITAR NA PORRADA\n");
+	}
+	else
+	
+	if(joao<=4)
+	{
+		printf("\n 4 nada ! VOU TE DEITAR NA PORRADA TUA RAPARIGA,BISCATE\n");
+	}
+	else
+	if(joao<=5)
+	{
+		printf("\n 5 TABOM MAIS SOU MUITO MAIS LINDO DO QUE ISSO ENTÃO PODE DAR MAIS FI DE RAPARIGA\n");
+	}
+	else
+	
+if(joao<=6)
+{
+	
+	printf("\n SOU BEM MAIS QUE ISSO NÉ\n");
+	
+}
+else
+
+if(joao<=7)
+{
+	printf("\n SOU UMA DINVIDADE BEM MAIS DO QUE ISSO BORAAA LÁ \n ");
+}
+else
+if(joao<=8)
+{
+	printf("\n HAHAHA ATÉ QUE FIM UM SER QUE ENTENDE O QUÃO LINDO EU REALMENTE SOU MAIS ISSO AINDA É POUCO  \n");
+	
+}
+else
+if(joao<=9)
+{
+	printf("\n SEI QUE SOU LINDO MAIS VAMOS COM CALMA MEU NOBRE \n ");
+}
+else
+if(joao<=10)
+{
+	printf("\n EITA POHAAAA,SEI QUE OU LINDO MAIS NEM PRA TANTO NÉ MEU NOBRE TMJ MEU QUERIDO\n");
+}
+else
+if(joao>=10)
+{
+	printf("\n vamos com calma meu querido a lindeza aqui é demais \n");
+}
+else
+
+
+							system("pause");
+						return 0;
+						
+	
+	}
+
+
+/*
+JOAO TOJO
+APRENDENDO A PROGRAMAR POSTAREI TODOS OS MEUS PROJETOS AQUI 
+10/10/22 AS 12H 08
+/*
